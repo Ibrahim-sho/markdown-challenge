@@ -61,5 +61,5 @@ THE END
 ###### TL;DR
 Cold-blooded Ibrahim
 
-<<[PREVIOUS](https://github.com/GemaHonesta/markdownchallenge/edit/master/README.md) ||IBRAHIM|| [NEXT](https://github.com/JPalluel/markdown-challenge/blob/master/README.md)>>
+<<[PREVIOUS](https://github.com/Gian1984/markdown-challagne/edit/master/README.md) ||IBRAHIM|| [NEXT](https://github.com/JPalluel/markdown-challenge/blob/master/README.md)>>
 
